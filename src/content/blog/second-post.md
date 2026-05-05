@@ -2,7 +2,7 @@
 title: '界面里的留白'
 description: '一些关于留白、节奏和阅读感的整理'
 pubDate: '2022-07-15'
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: ../../assets/blog-placeholder-4.jpg
 ---
 
 留白不是空，它负责让内容有呼吸。一个页面如果每个地方都在强调，最后反而没有重点。
